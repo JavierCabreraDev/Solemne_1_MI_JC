@@ -38,4 +38,4 @@
 
 ## Solución ejercicio 2
 - iii) Técnica de causa-efecto
-  - ![Tabla causa-efecto](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/causa_efecto_tabla.png)
+  - ![Tabla causa-efecto](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/causa_efecto_tabla.png "Tabla causa-efecto")
