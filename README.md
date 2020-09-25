@@ -2,7 +2,7 @@
 
 ## Solución ejercicio 1
 
-- a) [**Diagrama de grafos**](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Diagramas/Diagramas-Grafo.svg "click al enlace para ver diagrama.")
+- a) [**Diagrama de grafo**](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Diagramas/Diagramas-Grafo.svg "click al enlace para ver diagrama.")
 - b) V(G) = aristas - nodos + 2 => 35 -21 + 2 = 17
 - c)
   - C1: A - B - C - D - E - Fin
