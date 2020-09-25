@@ -1,2 +1,1 @@
-# Solemne_1_MI_JC
-Solemne 1 Testing y Calidad de software
+# Solemne_1_MI_JC 2020 - Testing y calidad de software
