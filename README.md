@@ -47,6 +47,14 @@
     - C5: K - M - N - I - J
   - ![Tabla de casos de prueba particion de equivalencias](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/casos_de_prueba_particion_de_equivalencias.png "Tabla de casos de prueba particion de equivalencias")
 - ii) Técnica de valores límites.
+  - ![Tabla de valores limites](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/tabla_valores_limites.png "Tabla de valores limites")
+  - Casos de prueba:
+    - C1: 1 - 5 - 10 - 14
+    - C1: 2 - 6 - 11 - 15
+    - C3: 3 - 7 - 12 - 16
+    - C4: 4 - 8 - 13 - 17
+    - C5: 1 - 9 - 10 - 15
+  - ![Casos de prueba valores límites](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/casos_de_prueba_valores_limites.png "Casos de prueba valores límites")
 - iii) Técnica de causa-efecto.
   - ![Tabla causa-efecto](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/causa_efecto_tabla.png "Tabla causa-efecto")
   - ![Grafos causa-efecto](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/causa_efecto_grafos.svg "Grafos causa-efecto")
