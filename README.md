@@ -1,6 +1,6 @@
 # Solemne_1_MI_JC 2020 - Testing y calidad de software
 
-## Solución ejercicio 1
+## Respuesta ejercicio 1
 
 - a) [**Diagrama de grafo**](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Diagramas/Diagramas-Grafo.svg "click al enlace para ver diagrama.")
 - b) V(G) = aristas - nodos + 2 => 35 -21 + 2 = 17
@@ -36,7 +36,7 @@
       - C3: d1 = 6 / d2 = 1 / d3 = 1
       - C4: d1 = 1 / d2 = 1 / d3 = 1
 
-## Solución ejercicio 2
+## Respuesta ejercicio 2
 - i) Técnica de partición de equivalencia.
   - ![Tabla de particion de equivalencias](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/causa_efecto_tabla.png "Tabla de particion de equivalencias")
   - Casos de prueba:
