@@ -37,7 +37,16 @@
       - C4: d1 = 1 / d2 = 1 / d3 = 1
 
 ## Solución ejercicio 2
-- iii) Técnica de causa-efecto
+- i) Técnica de partición de equivalencia.
+  - ACÁ VA LA TABLA
+  - Casos de prueba:
+    - C1: A - B - F - I - J
+    - C2: K - C - G - Ñ - P
+    - C3: L - D - H - O - Q
+    - C4: A - E - N - I - J
+    - C5: K - M - N - I - J
+- ii) Técnica de valores límites.
+- iii) Técnica de causa-efecto.
   - ![Tabla causa-efecto](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/causa_efecto_tabla.png "Tabla causa-efecto")
   - ![Grafos causa-efecto](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/causa_efecto_grafos.svg "Grafos causa-efecto")
   - ![Tabla decisión causa-efecto](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/tabla_decision_causa_efecto.png "Tabla de decisión")
