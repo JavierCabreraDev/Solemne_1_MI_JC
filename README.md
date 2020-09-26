@@ -45,6 +45,7 @@
     - C3: L - D - H - O - Q
     - C4: A - E - N - I - J
     - C5: K - M - N - I - J
+  - ![Tabla de casos de prueba particion de equivalencias](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/causa_efecto_tabla.png "Tabla de casos de prueba particion de equivalencias")
 - ii) Técnica de valores límites.
 - iii) Técnica de causa-efecto.
   - ![Tabla causa-efecto](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/causa_efecto_tabla.png "Tabla causa-efecto")
