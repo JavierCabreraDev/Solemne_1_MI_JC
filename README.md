@@ -38,7 +38,7 @@
 
 ## Respuesta ejercicio 2
 - i) Técnica de partición de equivalencia.
-  - ![Tabla de particion de equivalencias](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/causa_efecto_tabla.png "Tabla de particion de equivalencias")
+  - ![Tabla de particion de equivalencias](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/tabla_clase_valida_invalida.png "Tabla de particion de equivalencias")
   - Casos de prueba:
     - C1: A - B - F - I - J
     - C2: K - C - G - Ñ - P
