@@ -62,5 +62,5 @@
   - ![Casos de prueba causa-efecto](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/casos_de_prueba_causa_efecto.png "Casos de prueba causa-efecto")
 
 ## Respuesta ejercicio 3
-
-[Documento WORD ejercicio 3](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%203/Ejercicio3_Inspecciones.docx "HAcer click aquí")
+Para descargar, solo debe dar click derecho al enlace siguiente y seleccionar GUARDAR COMO.
+[Documento WORD ejercicio 3](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%203/Ejercicio3_Inspecciones.docx "Click derecho, GUARDAR COMO...")
