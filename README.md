@@ -63,6 +63,6 @@
   - 
 
 ## Respuesta ejercicio 3
-Para descargar, solo debe dar click derecho al enlace siguiente y seleccionar GUARDAR COMO.
+Para descargar, solo debe dar click derecho al enlace siguiente y seleccionar GUARDAR ENLACE COMO.
 
 [Documento WORD ejercicio 3](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%203/Ejercicio3_Inspecciones.docx "Click derecho, GUARDAR ENLACE COMO...")
