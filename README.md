@@ -60,7 +60,9 @@
   - ![Grafos causa-efecto](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/causa_efecto_grafos.svg "Grafos causa-efecto")
   - ![Tabla decisión causa-efecto](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/tabla_decision_causa_efecto.png "Tabla de decisión")
   - ![Casos de prueba causa-efecto](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%202/casos_de_prueba_causa_efecto.png "Casos de prueba causa-efecto")
+  - 
 
 ## Respuesta ejercicio 3
 Para descargar, solo debe dar click derecho al enlace siguiente y seleccionar GUARDAR COMO.
-[Documento WORD ejercicio 3](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%203/Ejercicio3_Inspecciones.docx "Click derecho, GUARDAR COMO...")
+
+[Documento WORD ejercicio 3](https://github.com/JavierCabreraDev/Solemne_1_MI_JC/blob/master/Ejercicio%203/Ejercicio3_Inspecciones.docx "Click derecho, GUARDAR ENLACE COMO...")
